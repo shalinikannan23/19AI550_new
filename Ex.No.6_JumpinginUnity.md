@@ -1,4 +1,4 @@
-# Ex.No: 5  Implementation of Jumping  behaviour- Unity
+# Ex.No: 6  Implementation of Jumping  behaviour- Unity
 ### DATE:                                                                            
 ### REGISTER NUMBER : 212222240095
 ### AIM: 
